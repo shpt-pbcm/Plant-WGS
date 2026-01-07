@@ -42,3 +42,7 @@
 7. **Phân tích sai khác trình tự và xác định marker phân tử**
    - Read **Illumina** của **L. virgatum** được ánh xạ lên **genome L. vulgare** để xác định vùng biến thiên.
    - Biến thể được gọi và phân tích mật độ bằng **VCFtools** theo cửa sổ 1,000 bp, từ đó xác định các vùng có mức đa hình cao, tiềm năng làm **marker phân tử**.
+
+###Nanopore Sequencing Technology as an Emerging Tool for Diversity Studies of Plant Organellar Genomes
+####https://doi.org/10.3390/d16030173
+1. 
